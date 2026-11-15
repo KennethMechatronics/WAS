@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TS-1088")(type "KiCad")(uri "${KIPRJMOD}/Lib/BTN--TS-1088-AR02016/TS-1088-AR02016.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32C3-Mini-1-N4")(type "KiCad")(uri "${KIPRJMOD}/Lib/MCU--ESP32-C3-Mini-1-N4/ESP32-C3-MINI-1-N4.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS63070RNMR")(type "KiCad")(uri "${KIPRJMOD}/Lib/PSU--TPS63070RNMR/TPS63070RNMR.kicad_sym")(options "")(descr ""))
+  (lib (name "USB-Rec")(type "KiCad")(uri "${KIPRJMOD}/Lib/USB-TYPE-C-31-M-12/TYPE-C-31-M-12.kicad_sym")(options "")(descr ""))
+  (lib (name "LP5817")(type "KiCad")(uri "${KIPRJMOD}/Lib/LP5817DRLR/LP5817DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "VO14642AABTR")(type "KiCad")(uri "${KIPRJMOD}/Lib/VO14642AABTR/VO14642AABTR.kicad_sym")(options "")(descr ""))
+)

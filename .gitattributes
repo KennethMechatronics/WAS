@@ -1,0 +1,37 @@
+# Default: automatically detect text files
+* text=auto
+
+# Source code
+*.cpp text eol=lf
+*.h text eol=lf
+*.c text eol=lf
+*.ini text eol=lf
+*.json text eol=lf
+
+# Git configuration
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# KiCad
+*.kicad_pcb text eol=lf
+*.kicad_sch text eol=lf
+*.kicad_pro text eol=lf
+*.kicad_sym text eol=lf
+*.kicad_mod text eol=lf
+
+# CAD exchange formats
+*.step text eol=lf
+*.stp text eol=lf
+
+# Inventor native formats
+*.ipt binary
+*.iam binary
+*.ipj text
+
+# Other binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.zip binary
+*.rar binary
