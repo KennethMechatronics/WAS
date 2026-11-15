@@ -52,6 +52,7 @@ Additional PCB layer views and review renders are available in [`Electronics/WAS
 
 ## License
 Firmware: MIT
+
 Hardware: CERN-OHL-P-2.0
 
 ---
